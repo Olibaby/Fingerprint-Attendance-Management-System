@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width" />
+    <title>Student Attendance Management System</title>
+
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/bootstrap.css" />
+    <link rel="stylesheet" href="~/Content/Site.css" />
+
+
+
+    <link rel="stylesheet" href="~/Content/assets/css/animate.min.css"/>
+    <link rel="stylesheet" href="~/Content/assets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/Content/assets/css/demo.css"/>
+    <link rel="stylesheet" href="~/Content/assets/css/light-bootstrap-dashboard.css"/>
+    <link rel="stylesheet" href="~/Content/assets/css/pe-icon-7-stroke.css"/>
+
+    <link rel="stylesheet" href="~/Content/assets/fonts/Pe-icon-7-stroke.eot"/>
+    <link rel="stylesheet" href="~/Content/assets/fonts/Pe-icon-7-stroke.svg" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/Pe-icon-7-stroke.ttf" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/Pe-icon-7-stroke.woff" />
+
+    <link rel="stylesheet" href="~/Content/assets/img/faces"/>
+    <link rel="stylesheet" href="~/Content/assets/img/default-avatar.png"/>
+    <link rel="stylesheet" href="~/Content/assets/img/favicon.ico" />
+    <link rel="stylesheet" href="~/Content/assets/img/full-screen-image-3.jpg" />
+    <link rel="stylesheet" href="~/Content/assets/img/loading-bubbles.svg" />
+    <link rel="stylesheet" href="~/Content/assets/img/mask.png" />
+    <link rel="stylesheet" href="~/Content/assets/img/new_logo.png" />
+    <link rel="stylesheet" href="~/Content/assets/img/sidebar-1.jpg" />
+    <link rel="stylesheet" href="~/Content/assets/img/sidebar-2.jpg" />
+    <link rel="stylesheet" href="~/Content/assets/img/sidebar-3.jpg" />
+    <link rel="stylesheet" href="~/Content/assets/img/sidebar-4.jpg" />
+    <link rel="stylesheet" href="~/Content/assets/img/sidebar-5.jpg" />
+    <link rel="stylesheet" href="~/Content/assets/img/tim_80x80.png" />
+
+
+
+    @*<link rel="stylesheet" href="~/Content/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/Content/css/mdb.css" />
+    <link rel="stylesheet" href="~/Content/css/mdb.min.css" />
+    <link rel="stylesheet" href="~/Content/css/style.css" />
+    <link rel="stylesheet" href="~/Content/css/style.min.css" />*@
+
+    @*<link rel="stylesheet" href="~/Content/assets/fonts/fontaweaome-webfont3e6e.eot" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/fontaweaome-webfont3e6e.svg" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/fontaweaome-webfont3e6e.ttf" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/fontaweaome-webfont3e6e.woff" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/fontaweaome-webfont3e6e.woff2" />
+    <link rel="stylesheet" href="~/Content/assets/fonts/fontaweaome-webfontd41d.eot" />*@
+
+</head>
+<body>
+    <div class="wrapper">
+        @Html.Partial("_SideBar")
+        <div class="main-panel">
+            @Html.Partial("_NavBar")
+
+            @RenderBody()
+
+
+            @Html.Partial("_Footer")
+        </div>
+    </div>
+
+    <script src="~/Content/assets/js/jquery.3.2.1.min.js"></script>
+    <script src="~/Content/assets/js/bootstrap-notify.js"></script>
+    <script src="~/Content/assets/js/bootstrap-select.js"></script>
+    <script src="~/Content/assets/js/bootstrap.min.js"></script>
+    <script src="~/Content/assets/js/chartist.min.js"></script>
+    <script src="~/Content/assets/js/demo.js"></script>
+    <script src="~/Content/assets/js/light-bootstrap-dashboard.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+
+
+    <script src="~/Content/js/bootstrap.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <script src="~/Content/js/jquery-3.2.1.min.js"></script>
+    <script src="~/Content/js/mdb.js"></script>
+    <script src="~/Content/js/mdb.min.js"></script>
+    <script src="~/Content/js/popper.min.js"></script>
+    @RenderSection("Script", false)
+    @*<link rel="stylesheet" href="~/Content/dataTables.bootstrap4.min.css" />
+        <script src="~/Content/dataTables.bootstrap4.min.js"> </script>
+        <script src="~/Content/jquery.dataTables.min.js"> </script>
+        <script src="~/Content/table_data.js"> </script>*@
+
+
+</body>
+</html>

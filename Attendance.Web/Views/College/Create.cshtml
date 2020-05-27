@@ -1,0 +1,83 @@
+﻿@model Attendance.Core.CollegeModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="page-title-breadcrumb">
+                        <ol class="breadcrumb page-breadcrumb pull-right">
+                            <li>
+                                <i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="index.html">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+                            </li>
+                            <li>
+                                <a class="parent-item" href="/College/Index">College</a>&nbsp;<i class="fa fa-angle-right"></i>
+                            </li>
+                            <li class="active">Add College</li>
+                        </ol>
+                    </div>
+                    <div class="header">
+                        <h4 class="title">Add College</h4>
+                    </div>                      
+                    <div class="content">
+                        <form action="Create" method="Post" id="form_sample_1" class="form-horizontal" novalidate="novalidate">
+                            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                            <div class="form-body">
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        College Name
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.TextBoxFor(m => m.CollegeName, new { @class = "form-control input-height", placeholder = "enter College name" })
+                                        @Html.ValidationMessageFor(m => m.CollegeName, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        College Dean
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.TextBoxFor(m => m.CollegeDean, new { @class = "form-control input-height", placeholder = "enter College Dean" })
+                                        @Html.ValidationMessageFor(m => m.CollegeDean, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-actions">
+                                    <div class="row">
+                                        <div class="offset-md-5 col-md-7">
+                                            <button type="button" class="btn btn-default btn-fill pull-right" >Cancel</button>
+                                            <button type="submit" class="btn btn-info btn-fill pull-right" id="submitData">Submit</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@*@section Script{
+    <script>
+    $(function ()
+    {
+        $(document).on('click', '#submitData', function (e)
+        {
+            $("html").addClass("loading");
+        });
+    });
+</script>*@
+@*}*@
+
+

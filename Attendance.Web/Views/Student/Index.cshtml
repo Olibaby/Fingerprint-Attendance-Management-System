@@ -1,0 +1,247 @@
+﻿@model IEnumerable<Attendance.Core.StudentModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <ol class="breadcrumb page-breadcrumb pull-right">
+                        <li>
+                            <i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="#">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+                        </li>
+                        <li>
+                            <a class="parent-item" href="/College/Index">Students</a>&nbsp;<i class="fa fa-angle-right"></i>
+                        </li>
+                        <li class="active">All Student List</li>
+                    </ol>
+                    <div class="header">
+                        <h4 class="title">All Student List</h4>
+                        @*<p class="category"></p>*@
+                    </div>
+
+                    <div class="content">
+                        <div class="row">
+
+                            <div class="col-md-6 col-sm-6 col-6">
+                                <div class="btn-group">
+                                    <a href="@Url.Action("Create","Student")" class="btn btn-info btn-fill"><i class="pe-7s-plus"></i>Add New </a>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-sm-6 col-6 pull-right ">
+                                @*<div class="row">
+                                    <div class="col-md-4 col-sm-6">*@
+
+                                <div class="btn-group">
+                                    <button class="btn btn-primary btn-fill pull-right" id="deleteAllSelected">
+                                        <i class="pe-7s-trash"></i>
+                                        Delete Selected
+
+                                    </button>
+                                </div>
+                                @*</div>*@
+                                @*<div class="col-md-2 col-sm-6">
+                                            <div class="btn-group pull-right">
+                                                <a class="btn deepPink-bgcolor  btn-outline dropdown-toggle" data-toggle="dropdown">
+                                                    Tools
+                                                    <i class="pe-7s-angle-down"></i>
+                                                </a>
+                                                <ul class="dropdown-menu pull-right">
+                                                    <li>
+                                                        <a href="javascript:;">
+                                                            <i class="pe-7s-print"></i>Print
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:;">
+                                                            <i class="fa fa-file-pdf-o"></i> Save as PDF
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:;">
+                                                            <i class="fa fa-file-excel-o"></i> Export to Excel
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    @*</div>*@
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="content table-responsive table-full-width">
+                        <table class="table table-hover table-striped">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" id="checkAll"></th>
+                                    @*<th></th>*@
+                                    <th>ID</th>
+                                    <th>First Name</th>
+                                    <th>Middle Name</th>
+                                    <th>Last Name</th>
+                                    <th>Matric No</th>
+                                    <th>Program </th>
+                                    <th>Level </th>
+                                    <th>College </th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr class="gradeX odd" role="row" id="row-@item.StudentId">
+                                        <td class="left"><input type="checkbox" id="checkedMe" data-id="@item.StudentId"></td>
+                                        @*<td class="patient-img sorting_1">
+                                                <img src="/Content/admintemplate/assets/img/std/std1.jpg" alt="">
+                                            </td>*@
+                                        <td class="left">@Html.DisplayFor(modelItem => item.StudentId)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.MiddleName)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.MatricNo)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Programme.ProgrammeName)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Level.LevelName)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.College.CollegeName)</td>
+
+                                        <td>
+                                            <a href="~/Student/Edit?id=@item.StudentId" class="btn btn-primary btn-xs">
+                                                <i class="pe-7s-pen"></i>
+                                            </a>
+                                            <a href="~/Student/Delete?id=@item.StudentId" class="btn btn-danger btn-xs" id="deleteaction" data-id="@item.StudentId" data-name="@item.FirstName">
+                                                <i class="pe-7s-trash"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Script{
+    <link href="~/Content/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <!-- data tables -->
+    <script src="~/Content/jquery.dataTables.min.js"></script>
+    <script src="~/Content/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Content/jquery.dataTables.min.js"></script>
+
+    <script>
+
+        $(function () {
+
+            //Select All Check Box
+            $("#checkAll").change(function (e) {
+                e.preventDefault();
+                if ($(this).is(':checked')) {
+                    $('input:checkbox').not(this).prop('checked', this.checked);
+                } else {
+                    $('input:checkbox').not(this).prop('checked', false);
+                }
+
+            });
+
+            //Script for performing single delete
+            $(document).on('click', '#deleteaction', function (e) {
+                e.preventDefault();
+
+                // Get the id from the link
+                var recordToDelete = $(this).attr("data-id");
+                var FirstName = $(this).attr("data-name");
+                if (recordToDelete !== '') {
+                    var confirmValue = confirm("Are you sure you want to delete the selected Client(s)? ");
+                    if (confirmValue) {
+                        $("html").addClass("loading")
+                        // Perform the ajax post Delete(int id, string FirstName)
+                        //alert("id :" + recordToDelete + "FirstName :" + FirstName);
+                        $.post("/Student/Delete", { "id": recordToDelete, "FirstName": FirstName },
+                            function (data) {
+                                // Successful requests get here
+                                // Update the page elements
+                                if (data.status == true) {
+                                    $("html").removeClass("loading")
+                                    $('#row-' + recordToDelete).fadeOut("slow", function () { $(this).remove(); });
+                                    toastr.success(data.message);
+                                }
+                                else {
+                                    $("html").removeClass("loading")
+                                    toastr.error(data.error);
+                                }
+
+                            });
+
+                    }
+                    else {
+                        $("html").removeClass("loading")
+                        return;
+
+                    }
+
+                }
+            });
+
+            //Script for performing multiple delete
+            $(document).on('click', '#deleteAllSelected', function (e) {
+                e.preventDefault();
+                //  $("html").addClass("loading");
+
+                var checkIds = "";
+
+                $('table> tbody > tr > td > #checkedMe').each(function (i) {
+                    if ($(this).is(":checked")) {
+                        checkIds = checkIds + $(this).attr('data-id') + "*";
+
+                    }
+
+                });
+                if (checkIds == "") {
+                    toastr.warning('Please select the Client you want to delete');
+                    // $("html").removeClass("loading");
+                    return;
+                }
+
+                var confirmValue = confirm("Are you sure you want to delete the selected item(s)? ");
+                if (confirmValue) {
+                    $("html").addClass("loading");
+                    $.post("/Student/DeleteIds", { "ids": checkIds },
+                        function (data) {
+                            // Successful requests get here
+
+                            if (data.status == true) {
+                                $("html").removeClass("loading");
+                                toastr.options.timeOut = "6000";
+                                toastr.success(data.message);
+                                setTimeout(function () { window.location.reload(); }, 3000);
+                            }
+
+                            else {
+                                $("html").removeClass("loading");
+                                toastr.error('Oopss!!! something went wrong. Error: ' + error);
+                                setTimeout(function () { window.location.reload(); }, 3000);
+                            }
+                        });
+                }
+                else {
+                    $("html").removeClass("loading");
+                    return;
+                }
+
+
+            });
+
+        });
+
+    </script>
+
+}

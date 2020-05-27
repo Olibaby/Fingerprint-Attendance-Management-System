@@ -1,0 +1,235 @@
+﻿@model IEnumerable<Attendance.Core.ProgrammeModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <ol class="breadcrumb page-breadcrumb pull-right">
+                        <li>
+                            <i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="#">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+                        </li>
+                        <li>
+                            <a class="parent-item" href="/Program/Index">Programs</a>&nbsp;<i class="fa fa-angle-right"></i>
+                        </li>
+                        <li class="active">All Program List</li>
+                    </ol>
+                    <div class="header">
+                        <h4 class="title">All Program List</h4>
+                        @*<p class="category"></p>*@
+                    </div>
+
+                    <div class="content">
+                        <div class="row">
+
+                            <div class="col-md-6 col-sm-6 col-6">
+                                <div class="btn-group">
+                                    <a href="@Url.Action("Create","Program")" class="btn btn-info btn-fill"><i class="pe-7s-plus"></i>Add New </a>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-sm-6 col-6 pull-right ">
+                                @*<div class="row">
+                                    <div class="col-md-4 col-sm-6">*@
+
+                                <div class="btn-group">
+                                    <button class="btn btn-primary btn-fill pull-right" id="deleteAllSelected">
+                                        <i class="pe-7s-trash"></i>
+                                        Delete Selected
+
+                                    </button>
+                                </div>
+                                @*</div>*@
+                                @*<div class="col-md-2 col-sm-6">
+                                            <div class="btn-group pull-right">
+                                                <a class="btn deepPink-bgcolor  btn-outline dropdown-toggle" data-toggle="dropdown">
+                                                    Tools
+                                                    <i class="pe-7s-angle-down"></i>
+                                                </a>
+                                                <ul class="dropdown-menu pull-right">
+                                                    <li>
+                                                        <a href="javascript:;">
+                                                            <i class="pe-7s-print"></i>Print
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:;">
+                                                            <i class="fa fa-file-pdf-o"></i> Save as PDF
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:;">
+                                                            <i class="fa fa-file-excel-o"></i> Export to Excel
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    @*</div>*@
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="content table-responsive table-full-width">
+                        <table class="table table-hover table-striped">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" id="checkAll"></th>
+                                    @*<th></th>*@
+                                    <th>ID</th>
+                                    <th>Program Name</th>
+
+                                    <th>Date Created</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr class="gradeX odd" role="row" id="row-@item.ProgrammeId">
+                                        <td class="left"><input type="checkbox" id="checkedMe" data-id="@item.ProgrammeId"></td>
+                                        @*<td class="patient-img sorting_1">
+                                                <img src="/Content/admintemplate/assets/img/std/std1.jpg" alt="">
+                                            </td>*@
+                                        <td class="left">@Html.DisplayFor(modelItem => item.ProgrammeId)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.ProgrammeName)</td>
+                                        <td>
+                                            <a href="~/Program/Edit?id=@item.ProgrammeId" class="btn btn-primary btn-xs">
+                                                <i class="pe-7s-pen"></i>
+                                            </a>
+                                            <a href="~/Program/Delete?id=@item.ProgrammeId" class="btn btn-danger btn-xs" id="deleteaction" data-id="@item.ProgrammeId" data-name="@item.ProgrammeName">
+                                                <i class="pe-7s-trash"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Script{
+    <link href="~/Content/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <!-- data tables -->
+    <script src="~/Content/jquery.dataTables.min.js"></script>
+    <script src="~/Content/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Content/jquery.dataTables.min.js"></script>
+
+    <script>
+
+        $(function () {
+
+            //Select All Check Box
+            $("#checkAll").change(function (e) {
+                e.preventDefault();
+                if ($(this).is(':checked')) {
+                    $('input:checkbox').not(this).prop('checked', this.checked);
+                } else {
+                    $('input:checkbox').not(this).prop('checked', false);
+                }
+
+            });
+
+            //Script for performing single delete
+            $(document).on('click', '#deleteaction', function (e) {
+                e.preventDefault();
+
+                // Get the id from the link
+                var recordToDelete = $(this).attr("data-id");
+                var ProgrammeName = $(this).attr("data-name");
+                if (recordToDelete !== '') {
+                    var confirmValue = confirm("Are you sure you want to delete the selected Client(s)? ");
+                    if (confirmValue) {
+                        $("html").addClass("loading")
+                        // Perform the ajax post Delete(int id, string ProgrammeName)
+                        //alert("id :" + recordToDelete + "ProgrammeName :" + ProgrammeName);
+                        $.post("/Program/Delete", { "id": recordToDelete, "ProgrammeName": ProgrammeName },
+                            function (data) {
+                                // Successful requests get here
+                                // Update the page elements
+                                if (data.status == true) {
+                                    $("html").removeClass("loading")
+                                    $('#row-' + recordToDelete).fadeOut("slow", function () { $(this).remove(); });
+                                    toastr.success(data.message);
+                                }
+                                else {
+                                    $("html").removeClass("loading")
+                                    toastr.error(data.error);
+                                }
+
+                            });
+
+                    }
+                    else {
+                        $("html").removeClass("loading")
+                        return;
+
+                    }
+
+                }
+            });
+
+            //Script for performing multiple delete
+            $(document).on('click', '#deleteAllSelected', function (e) {
+                e.preventDefault();
+                //  $("html").addClass("loading");
+
+                var checkIds = "";
+
+                $('table> tbody > tr > td > #checkedMe').each(function (i) {
+                    if ($(this).is(":checked")) {
+                        checkIds = checkIds + $(this).attr('data-id') + "*";
+
+                    }
+
+                });
+                if (checkIds == "") {
+                    toastr.warning('Please select the Programme you want to delete');
+                    // $("html").removeClass("loading");
+                    return;
+                }
+
+                var confirmValue = confirm("Are you sure you want to delete the selected item(s)? ");
+                if (confirmValue) {
+                    $("html").addClass("loading");
+                    $.post("/Program/DeleteIds", { "ids": checkIds },
+                        function (data) {
+                            // Successful requests get here
+
+                            if (data.status == true) {
+                                $("html").removeClass("loading");
+                                toastr.options.timeOut = "6000";
+                                toastr.success(data.message);
+                                setTimeout(function () { window.location.reload(); }, 3000);
+                            }
+
+                            else {
+                                $("html").removeClass("loading");
+                                toastr.error('Oopss!!! something went wrong. Error: ' + error);
+                                setTimeout(function () { window.location.reload(); }, 3000);
+                            }
+                        });
+                }
+                else {
+                    $("html").removeClass("loading");
+                    return;
+                }
+
+
+            });
+
+        });
+
+    </script>
+
+}

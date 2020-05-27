@@ -1,0 +1,184 @@
+﻿@model Attendance.Core.CourseModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="page-title-breadcrumb">
+                        <ol class="breadcrumb page-breadcrumb pull-right">
+                            <li>
+                                <i class="fa fa-home"></i>&nbsp;<a class="parent-item" href="index.html">Home</a>&nbsp;<i class="fa fa-angle-right"></i>
+                            </li>
+                            <li>
+                                <a class="parent-item" href="/Course/Index">Course</a>&nbsp;<i class="fa fa-angle-right"></i>
+                            </li>
+                            <li class="active">Add Course</li>
+                        </ol>
+                    </div>
+                    <div class="header">
+                        <h4 class="title">Add Course</h4>
+                    </div>
+                    <div class="content">
+                        <form action="Create" method="Post" id="form_sample_1" class="form-horizontal" novalidate="novalidate">
+                            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                            <div class="form-body">
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        College
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.DropDownListFor(m => m.CollegeId, (IEnumerable<SelectListItem>)ViewBag.colleges, new { @class = "form-control input-height", placeholder = "enter College Name" })
+                                        @Html.ValidationMessageFor(m => m.CollegeId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        Program
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.DropDownListFor(m => m.ProgrammeId, (IEnumerable<SelectListItem>)ViewBag.programmes, new { @class = "form-control input-height", placeholder = "enter Program Name" })
+                                        @Html.ValidationMessageFor(m => m.ProgrammeId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        Level
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.DropDownListFor(m => m.LevelId, (IEnumerable<SelectListItem>)ViewBag.levels, new { @class = "form-control input-height", placeholder = "enter Level Name" })
+                                        @Html.ValidationMessageFor(m => m.LevelId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        Course Name
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.TextBoxFor(m => m.CourseName, new { @class = "form-control input-height", placeholder = "enter Course Name" })
+                                        @Html.ValidationMessageFor(m => m.CourseName, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        Course Code
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.TextBoxFor(m => m.CourseCode, new { @class = "form-control input-height", placeholder = "enter Course Code" })
+                                        @Html.ValidationMessageFor(m => m.CourseCode, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="control-label col-md-3">
+                                        Lecturer Name
+                                        <span class="required" aria-required="true"> * </span>
+                                    </label>
+                                    <div class="col-md-5">
+                                        @Html.DropDownListFor(m => m.LecturerId, (IEnumerable<SelectListItem>)ViewBag.lecturer, new { @class = "form-control input-height", placeholder = "enter Lecturer Name" })
+                                        @Html.ValidationMessageFor(m => m.LecturerId, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-actions">
+                                    <div class="row">
+                                        <div class="offset-md-5 col-md-7">
+                                            <button type="button" class="btn btn-default btn-fill pull-right">Cancel</button>
+                                            <button type="submit" class="btn btn-info btn-fill pull-right" id="submitData">Submit</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Script{
+    <script>
+            $(function loadProgrammes() {
+                $('#CollegeId').on('change', function () {
+                    var id, user, url, select;
+
+                    url = '@Url.Action("GetProgrammeByCollegeId")';
+                    select = $('#ProgrammeId');
+                    id = $('#CollegeId').val();
+
+                    $.ajax({
+                        type: "POST",
+                        url: url,
+                        data: { id: id },
+                        success: function (response) {
+                            if (response.ok) {
+                                //empty the combo
+                                select.empty();
+
+                                //fill again
+                                var oSelect = "Select " + "Programme";
+                                select.append($('<option></option>').val("").html(oSelect));
+
+                                $.each(response.data, function (index, itemdata) {
+
+                                    select.append($('<option></option>').val(itemdata.ProgrammeId).html(itemdata.ProgrammeName));
+                                });
+                                select.show('slow');
+                            }
+                            else {
+                                window.alert(' error : ' + response.message);
+                            }
+                        }
+                    });
+
+                });
+
+            });
+
+        $(function loadDefualtProgrammes() {
+                    var id, url, select;
+
+                    url = '@Url.Action("GetProgrammeByCollegeId")';
+                    select = $('#ProgrammeId');
+                    id = $('#CollegeId').val();
+
+                    $.ajax({
+                        type: "POST",
+                        url: url,
+                        data: { id: id },
+                        success: function (response) {
+                            if (response.ok) {
+                                //empty the combo
+                                select.empty();
+
+                                //fill again
+                                var oSelect = "Select " + "Programme";
+                                select.append($('<option></option>').val("").html(oSelect));
+
+                                $.each(response.data, function (index, itemdata) {
+
+                                    select.append($('<option></option>').val(itemdata.ProgrammeId).html(itemdata.ProgrammeName));
+                                });
+                                select.show('slow');
+                            }
+                            else {
+                                window.alert(' error : ' + response.message);
+                            }
+                        }
+                    });
+            });
+
+            $(document).ready(function () {
+                loadDefualtProgrammes();
+            });
+
+    </script>
+}

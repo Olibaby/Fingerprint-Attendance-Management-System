@@ -1,0 +1,121 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll.config
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Attendance.Data.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csprojAssemblyReference.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csproj.CopyComplete
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Core\obj\Debug\Attendance.Core.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Attendance.Core.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Attendance.Core.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Attendance.Data.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\EntityFramework.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Owin.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Attendance.Data.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Attendance.Data.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\EntityFramework.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csprojAssemblyReference.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\obj\Debug\Attendance.Core.csproj.CopyComplete
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\obj\Debug\Attendance.Core.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Core\obj\Debug\Attendance.Core.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Attendance.Core.dll.config
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Attendance.Core.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Attendance.Core.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Attendance.Data.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Owin.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Attendance.Data.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\obj\Debug\Attendance.Core.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\obj\Debug\Attendance.Core.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Core\obj\Debug\Attendance.Core.pdb

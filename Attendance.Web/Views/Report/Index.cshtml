@@ -1,0 +1,46 @@
+﻿@using System.Dynamic;
+@using lookUp = Attendance.Core.CourseModel;
+
+@model dynamic
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content table-responsive table-full-width">
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                @foreach (var col in (List<dynamic>)Model)
+                {
+                    ExpandoObject t = (ExpandoObject)col;
+                    var reports = t.ToList();
+
+                    foreach (var report in reports)
+                    {
+                        <th>@report.Key</th>
+                    }
+                    break;
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var rol in Model)
+            {
+                <tr class="gradeX odd" role="row">
+                    @{
+                        ExpandoObject s = (ExpandoObject)rol;
+                        var reportss = s.ToList();
+                    }
+                    @foreach (var report in reportss)
+                    {
+                        <td>@report.Value</td>
+                    }
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

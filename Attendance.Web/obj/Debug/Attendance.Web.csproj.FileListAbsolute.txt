@@ -1,0 +1,422 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\ApplicationInsights.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Web.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.Web.Common.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.Web.Common.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\ApplicationInsights.config
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\csc.exe
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\vbc.exe
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Web.dll.config
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Web.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Web.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Data.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.Web.Common.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Helpers.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Mvc.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Razor.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Attendance.Data.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\Ninject.Web.Common.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Razor.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Helpers.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\bin\System.Web.Mvc.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csprojResolveAssemblyReference.cache
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\ApplicationInsights.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\csc.exe
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\vbc.exe
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Web.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Web.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Web.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Data.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\EntityFramework.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Ninject.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Ninject.Web.Common.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Owin.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Helpers.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Mvc.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Razor.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Core.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Data.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Attendance.Data.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\EntityFramework.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Ninject.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\Ninject.Web.Common.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Razor.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Helpers.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\bin\System.Web.Mvc.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csprojAssemblyReference.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csproj.CoreCompileInputs.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csproj.CopyComplete
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.Web\obj\Debug\Attendance.Web.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\ApplicationInsights.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\csc.exe
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\vbc.exe
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Web.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Web.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Web.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Core.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Data.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\EntityFramework.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Ninject.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Ninject.Web.Common.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Owin.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Helpers.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Mvc.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Razor.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Webpages.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Core.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Core.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Data.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Attendance.Data.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\EntityFramework.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Ninject.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\Ninject.Web.Common.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Razor.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Webpages.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Helpers.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\bin\System.Web.Mvc.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csprojAssemblyReference.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csproj.CoreCompileInputs.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csproj.CopyComplete
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\obj\Debug\Attendance.Web.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.Web\obj\Debug\Attendance.Web.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Web.dll.config
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Web.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Web.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Core.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Data.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Ninject.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Ninject.Web.Common.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Owin.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Webpages.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Core.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Attendance.Data.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Ninject.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\Ninject.Web.Common.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Webpages.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\obj\Debug\Attendance.Web.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\obj\Debug\Attendance.Web.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.Web\obj\Debug\Attendance.Web.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\ApplicationInsights.config
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Web.dll.config
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Web.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Web.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Core.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Data.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\EntityFramework.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Ninject.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Ninject.Web.Common.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Owin.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Webpages.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Core.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Attendance.Data.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\EntityFramework.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Ninject.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\Ninject.Web.Common.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Webpages.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\obj\Debug\Attendance.Web.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\obj\Debug\Attendance.Web.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.Web\obj\Debug\Attendance.Web.pdb

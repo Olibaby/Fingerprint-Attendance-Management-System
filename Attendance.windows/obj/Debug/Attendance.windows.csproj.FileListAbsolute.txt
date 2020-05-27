@@ -1,0 +1,138 @@
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.pdb
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.dll
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.pdb
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.xml
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.xml
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Enrollment.resources
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Students.resources
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Verification.resources
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.exe
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.pdb
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Login.resources
+\\mac\home\documents\visual studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Courses.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csprojAssemblyReference.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Courses.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Login.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Properties.Resources.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Verification.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.GenerateResource.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.CoreCompileInputs.cache
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.CopyComplete
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.exe
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe.config
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.windows.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Data.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csprojResolveAssemblyReference.cache
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Courses.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Enrollment.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Login.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.OneFingerEnrollment.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Properties.Resources.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Students.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Verification.resources
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.GenerateResource.Cache
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.exe
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.pdb
+C:\Users\Dare\Documents\Visual Studio 2015\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Identify.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Core.dll
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Core.pdb
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\bin\Debug\Attendance.Core.dll.config
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Form_Main.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.StudentEnrollment.resources
+C:\Users\Dare\Documents\Visual Studio 2017\Projects\Attendance\Attendance.windows\obj\Debug\Attendance.windows.EditStudentEnrollment.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csprojAssemblyReference.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Courses.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Login.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.EditStudentEnrollment.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.StudentEnrollment.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Properties.Resources.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Form_Main.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Verification.resources
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.GenerateResource.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.CoreCompileInputs.cache
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.exe
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.windows.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.Core.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\EntityFramework.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.Core.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.Core.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.Data.pdb
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll.config
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\EntityFramework.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dare\Desktop\CERTS\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.CopyComplete
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe.config
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.exe
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.windows.exe
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.windows.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.Core.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.Data.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.Core.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\Attendance.Data.pdb
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Courses.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Login.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.EditStudentEnrollment.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.StudentEnrollment.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Properties.Resources.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Form_Main.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.Verification.resources
+C:\Users\Admin\Downloads\Attendance\Attendance.windows\obj\Debug\Attendance.windows.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.windows.exe.config
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.exe
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.windows.exe
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.windows.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.Core.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.Data.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.Core.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\Attendance.Data.pdb
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.Courses.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.Login.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.EditStudentEnrollment.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.StudentEnrollment.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.Properties.Resources.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.Form_Main.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.Verification.resources
+C:\Users\Admin\Documents\my project\Attendance Main\Attendance.windows\obj\Debug\Attendance.windows.csproj.GenerateResource.Cache
