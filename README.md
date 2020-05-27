@@ -1,2 +1,2 @@
 # Attendance
-A student finger print attendance management system(web and desktop)
+C# student finger print attendance management system(web and desktop)
